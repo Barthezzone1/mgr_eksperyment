@@ -16,7 +16,7 @@ Ten pakiet zawiera **gotowe skrypty** do przeprowadzenia badań porównawczych:
 ```
 image_codec_experiment_kit/
   data/
-    raw/           # tu wrzuć/ściągnij pliki z Unsplash (JPEG/PNG/TIFF)
+    raw/           # tu wrzuć pliki (JPEG/PNG/TIFF)
     prepared/      # tu skrypt zapisze pliki po ujednoliceniu (PNG sRGB, parzyste wymiary)
   results/
     encodes/       # tu zapiszą się pliki wynikowe (webp/avif/jxl)
