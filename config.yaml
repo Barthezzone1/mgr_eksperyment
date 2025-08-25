@@ -1,0 +1,16 @@
+dataset:
+  categories: [krajobraz, portret, architektura, ilustracja]
+  per_category: 25
+  min_resolution:
+    width: 1920
+    height: 1080
+  seed: 42
+
+quality_grids:
+  webp_q: [60, 75, 90]
+  avif_q: [28, 36, 44]
+  jxl_q:  [30, 50, 70, 90]
+
+runtime:
+  threads: auto
+  chroma: "420"
